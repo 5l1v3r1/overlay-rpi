@@ -1,2 +1,0 @@
-# mask the mesa from chromiumos-overlay
->=media-libs/mesa-17.1
